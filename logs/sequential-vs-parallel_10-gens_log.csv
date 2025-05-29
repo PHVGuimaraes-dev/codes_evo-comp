@@ -1,9 +1,0 @@
-model_id,REPRESENTATION,NUM_GENES,mode,duration
-1,binary,2,sequential,1.067134141921997
-1,binary,2,parallel,6.729546308517456
-2,real,2,sequential,0.3584911823272705
-2,real,2,parallel,1.7246649265289307
-3,binary,10,sequential,2.480397939682007
-3,binary,10,parallel,29.975827932357788
-4,real,10,sequential,0.4809110164642334
-4,real,10,parallel,3.2382707595825195
